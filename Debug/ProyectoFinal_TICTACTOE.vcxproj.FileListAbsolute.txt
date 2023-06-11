@@ -1,0 +1,5 @@
+C:\Users\jmart\OneDrive\Documentos\Tamara Universidad\6° Cuatrimestre\Estructura de datos\ProyectoFinal_TICTACTOE\Debug\ProyectoFinal_TICTACTOE.vcxprojAssemblyReference.cache
+C:\Users\jmart\OneDrive\Documentos\Tamara Universidad\6° Cuatrimestre\Estructura de datos\ProyectoFinal_TICTACTOE\Debug\ProyectoFinal_TICTACTOE.exe
+C:\Users\jmart\OneDrive\Documentos\Tamara Universidad\6° Cuatrimestre\Estructura de datos\ProyectoFinal_TICTACTOE\Debug\ProyectoFinal_TICTACTOE.pdb
+C:\Users\jmart\OneDrive\Documentos\Tamara Universidad\6° Cuatrimestre\Estructura de datos\ProyectoFinal_TICTACTOE\Debug\ProyectoFinalTICTACTOE.MyForm.resources
+C:\Users\jmart\OneDrive\Documentos\Tamara Universidad\6° Cuatrimestre\Estructura de datos\ProyectoFinal_TICTACTOE\Debug\ProyectoFinal_TICTACTOE.vcxproj.GenerateResource.cache
